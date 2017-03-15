@@ -1,5 +1,6 @@
 
 Tuffy is an open-source Markov logic network inference engine.
+
 The present version is 0.3, released May 1, 2011.
 You can learn more about it at http://research.cs.wisc.edu/hazy/tuffy/
 User manual can be downloaded at http://research.cs.wisc.edu/hazy/tuffy/doc/tuffy-manual.pdf
